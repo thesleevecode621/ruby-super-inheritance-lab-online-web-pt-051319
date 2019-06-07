@@ -7,4 +7,3 @@ class Student
     return   "pick  "
   end 
 end 
-end 
